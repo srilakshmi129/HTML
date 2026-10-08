@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+div {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 6px;
+}
+
+
+.box1 p {
+    color: red;
+}
+
+
+.box2 p {
+    color: #ff0000;
+}
+
+
+.box3 p {
+    color: rgb(255, 0, 0);
+}
+
+
+.box4 p {
+    color: rgba(255, 0, 0, 0.6);
+} 
+
+
+.box5 p {
+    color: hsl(0, 100%, 50%);
+}
